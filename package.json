@@ -8,7 +8,7 @@
     "dev": "concurrently \"tsc --watch\" \"nodemon -q dist/index.js\"",
     "format": "prettier --write \"src/**/*.ts\""
   },
-  "author": "",
+  "author": "73ba25",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "mineflayer": "^4.14.0"
